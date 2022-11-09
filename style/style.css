@@ -295,7 +295,7 @@ table {
 
 .fourth-section{
     background-image: url(../assets/fourth-section.png) ;
-    size: cover;
+    background-size: cover;
     background-repeat: no-repeat;
     padding: 226px  900px 100px 330px ;
 
@@ -551,7 +551,12 @@ table {
         width: 100%;
         margin: 0 auto;
       }
-
+    .fourth-section{
+       background-size: cover;
+    }
+    .fifth-section{
+        background-size: cover;
+    }
     .fourth-section__article{
         padding: 0px;
         
