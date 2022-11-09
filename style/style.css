@@ -72,9 +72,7 @@ table {
     width: 100%;
     background-color: #5474FD;
 }
-.main-nav{
-    
-}
+
 .header__links ul{
     display: flex;
     align-items: center;
@@ -163,6 +161,7 @@ table {
     align-items: center;
     justify-content: center;
     margin-top: 48px;
+
     width: 153px;
     height: 63px;
     float: right;
@@ -172,6 +171,9 @@ table {
     margin-bottom: 200px;
     text-transform: uppercase;
 
+}
+.first-section__btn{
+    margin-right: 10px;
 }
 
 .first-section__input::placeholder {
@@ -202,4 +204,71 @@ table {
     letter-spacing: 2.8px;
     color: #FFFFFF;
     list-style: none;
+}
+.second-section{
+    background-image:url(../assets/background-pic2.svg) ;
+    background-color: #333333;
+}
+.second-section__article{
+    display: flex;
+    padding-top: 10px;
+}
+
+.second-section__majte{
+    margin-right: 100px;
+}
+.second-section__button {
+    background-color: 
+    #496BFE;
+    display: inline-block;
+    padding-top: 21px;
+    padding-right: 25px;
+    padding-bottom: 16px;
+    padding-left: 38px;
+    color:black;
+    text-decoration: none;
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 45px;
+    margin-bottom: 131px;
+
+}
+.second-section__djathte {
+    position: relative;
+    padding-top: 118px;
+}
+.second-section__title{
+    
+    font-family: 'Aleo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+.second-section__paragraph{
+    padding-top: 50px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1.6px;
+    color: #E8E8E8;
+
+}
+
+.foto2 {
+    margin-left: 100px;
+    margin-right: -40px;
+    margin-top: 10px;
+}
+.second-section__majte {
+    padding-top: 212px;
 }
