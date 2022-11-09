@@ -556,4 +556,21 @@ table {
         padding: 0px;
         
     }
+    .foto2{
+        margin-right: 40px;
+    }
+    .second-section__djathte{
+        padding-top: 165px;
+    }
+    .second-section__majte {
+        margin-right: 85px;
+        padding-top: 192px;
+        padding-left: 31px;
+    }
+    .fifth-section{
+        padding: 180px 192px 128px 171px;
+    }
+    .fourth-section{
+        padding: 160px 900px 103px 167px;
+    }
     }
